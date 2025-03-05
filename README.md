@@ -6,7 +6,10 @@ First, run the development server:
 
 ```bash
 npm run dev
-and
+
+```
+
+```bash
 npm i motion clsx tailwind-merge
 
 ```
